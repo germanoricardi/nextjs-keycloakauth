@@ -1,3 +1,5 @@
-const SupplierPage = () => (<>Supplier</>);
+const SupplierPage = () => {
+  return (<>Supplier</>)
+};
 
 export default SupplierPage
